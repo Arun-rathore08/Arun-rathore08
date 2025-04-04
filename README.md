@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arun-rathore08
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... Django framework in python
+- 🌱 I’m Django developer ... Django framework in python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...15arunrathore@gmail.com , 
 
